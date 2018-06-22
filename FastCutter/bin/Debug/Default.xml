@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+  <GlobalConfig>
+    <RectWidth>100</RectWidth>
+    <RectHeight>200</RectHeight>
+    <XOfset>0</XOfset>
+    <YOfset>0</YOfset>
+    <OriginXY>0</OriginXY>
+    <OriginZ>1</OriginZ>
+    <InExtCutting>0</InExtCutting>
+    <CwCCw>0</CwCCw>
+    <CncFolderPath>D:\</CncFolderPath>
+    <StartPoint>2</StartPoint>
+    <DiaCutter>3</DiaCutter>
+    <DepthPerPass>3</DepthPerPass>
+    <StepCut>1,2</StepCut>
+    <FeedSpeed>1000</FeedSpeed>
+    <InFeedSpeed>800</InFeedSpeed>
+    <RotateFreq>15000</RotateFreq>
+    <Pass>5</Pass>
+    <AllowFinishPass>True</AllowFinishPass>
+    <Thickness>10</Thickness>
+    <FinishPass>2</FinishPass>
+    <SafetyLevel>5</SafetyLevel>
+    <PixelSize>0,15</PixelSize>
+    <DeltaX>20</DeltaX>
+    <DeltaY>20</DeltaY>
+    <ControlType>0</ControlType>
+    <PocketCutting>2</PocketCutting>
+    <PocketCutout>False</PocketCutout>
+  </GlobalConfig>
+</Config>
